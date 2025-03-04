@@ -1,2 +1,2 @@
-# Orientação-a-objetos-com-Java
-Material para estudo
+# Programação orientada  a objetos (POO) :estudo e demonstração com a linguagem Java
+
